@@ -1,0 +1,35 @@
+[28-Jul-2020 06:46:52 Asia/Bahrain] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "ladonnabeauty.bh@gmail.com" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". in /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:191
+Stack trace:
+#0 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(371): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(148): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(65): Swift_Trans in /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 191
+[28-Jul-2020 06:48:16 Asia/Bahrain] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "ladonnabeauty.bh@gmail.com" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". in /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:191
+Stack trace:
+#0 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(371): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(148): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(65): Swift_Trans in /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 191
+[28-Jul-2020 06:52:05 Asia/Bahrain] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "ladonnabeauty.bh@gmail.com" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". in /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:191
+Stack trace:
+#0 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(371): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(148): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(65): Swift_Trans in /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 191
+[29-Jul-2020 04:28:12 Asia/Bahrain] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "ladonnabeauty.bh@gmail.com" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". in /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:191
+Stack trace:
+#0 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(371): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(148): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(65): Swift_Trans in /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 191
+[04-Aug-2020 08:58:24 Asia/Bahrain] PHP Fatal error:  Uncaught Swift_TransportException: Failed to authenticate on SMTP server with username "info@example.com" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". in /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php:191
+Stack trace:
+#0 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(371): Swift_Transport_Esmtp_AuthHandler->afterEhlo(Object(Swift_SmtpTransport))
+#1 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(148): Swift_Transport_EsmtpTransport->doHeloCommand()
+#2 /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer.php(65): Swift_Transport_Abstr in /home/semiggiy/App.semi-colen.com/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 191
